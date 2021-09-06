@@ -1,7 +1,7 @@
 <!-- Card -->
 
-[![ssabcire GitHub stats](https://github-readme-stats.vercel.app/api?username=ssabcire)](https://github.com/anuraghazra/github-readme-stats)
 [![ssabcire Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssabcire)](https://github.com/anuraghazra/github-readme-stats)
+[![ssabcire GitHub stats](https://github-readme-stats.vercel.app/api?username=ssabcire)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My skills
