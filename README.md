@@ -1,7 +1,7 @@
 <!-- Card -->
 
-[![ssabcire Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssabcire)](https://github.com/anuraghazra/github-readme-stats)
-[![ssabcire GitHub stats](https://github-readme-stats.vercel.app/api?username=ssabcire)](https://github.com/anuraghazra/github-readme-stats)
+[![ssabtamaki Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssabtamaki)](https://github.com/anuraghazra/github-readme-stats)
+[![ssabtamaki GitHub stats](https://github-readme-stats.vercel.app/api?username=ssabtamaki)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My skills
@@ -20,8 +20,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E5%AD%9D%E6%96%97-%E7%8E%89%E5%9F%8E-a61a701b3/)
 [![Wantedly](https://img.shields.io/badge/-Wantedly-blue?style=for-the-badge)](https://www.wantedly.com/id/takato_tamaki)
-[![hatena-blog](https://img.shields.io/badge/-Hatena%20Blog-black?style=for-the-badge)](https://ssabcire.hatenablog.com/)
+[![hatena-blog](https://img.shields.io/badge/-Hatena%20Blog-black?style=for-the-badge)](https://ssabtamaki.hatenablog.com/)
 
 
 ### Other
-![my-profile-views](https://komarev.com/ghpvc/?username=ssabcire&color=green)
+![my-profile-views](https://komarev.com/ghpvc/?username=ssabtamaki&color=green)
